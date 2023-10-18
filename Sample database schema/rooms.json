@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Shiva International Hotel",
+    "imageurls": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "rentperday": 1500,
+    "type": "Delux",
+    "maxcount": 3,
+    "phonenumber": 9976903868,
+    "currentbookings": [ ],
+    "description": "Hotel Shiva Lodge is a well-furnished hotel located in Chennai"
+  },
+  {
+    "name": "Ram Hotel",
+    "imageurls": [
+      "https://images.unsplash.com/photo-1618773928121-c32242e63f39"
+    ],
+    "rentperday": 1200,
+    "type": "Non Delux",
+    "maxcount": 2,
+    "phonenumber": 9966903828,
+    "currentbookings": [ ],
+    "description": "Hotel Ram Lodge is a well-furnished hotel located in Tambaram"
+  },
+  {
+    "name": "Metro International Hotel",
+    "imageurls": [
+      "https://images.unsplash.com/photo-1595576508898-0ad5c879a061"
+    ],
+    "rentperday": 2000,
+    "type": "Delux",
+    "maxcount": 4,
+    "phonenumber": 8122631662,
+    "currentbookings": [ ],
+    "description": "Hotel Metro International is a well-furnished hotel located in Trichy"
+  }
+]
+
+ 
+       
+          
